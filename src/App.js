@@ -1,4 +1,3 @@
-import { useState } from "react"
 import { BrowserRouter, Routes, Route } from "react-router-dom"
 import FetchProducts from "./components/FetchProducts"
 import Error from "./components/Error"
